@@ -1,0 +1,6 @@
+framework module Pods_RxSwiftMapDelegateExample {
+  umbrella header "Pods-RxSwiftMapDelegateExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
